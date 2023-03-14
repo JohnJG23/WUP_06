@@ -50,7 +50,7 @@ barchartGC(~race + cappun,data=mydata, type="percent")
 
 ```
 
-
+The number of people in favor compared to oppose are greater for most people except black people. A high percent of white people are in favor of capital punishment communicated by the first box, then there is a higher percent of other people in favor compared to the least amount of people in favor the black people in the middle box. 
 
 
 
