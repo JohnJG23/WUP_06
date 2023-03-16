@@ -90,7 +90,7 @@ fisher.test(table1)
 fisherXY (mydata$race,mydata$cappun, printAll=TRUE)
 ```
 
-
+Interestingly in the data we can see that there were many white people who were in favor and so many people who would opposed. Then for other people there was not big of a difference between the results and not as big of difference between black people as well. Additionally in a fisherxy observation we would read the same picture and the same can be said with the side where the number of observations is less on the number 2 branch.
 
 # Discussion and Conclusion
 
