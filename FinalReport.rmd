@@ -95,3 +95,5 @@ Interestingly in the data we can see that there were many white people who were 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+The end of this write up communicates that there is a an occurrence going on in race and opposing or favoring capitol punishment. In a master branch we had enough inferences to conclude statistical differences and in the branch number 2 we had less data but were able to see that there is a also similar readings. For the master branch there were a higher sample size so it yielded a significant value and in the second branch we didn't have alot of data but were able to see how if we had a higher number of inferences the second branch would have also communicated a significant value. 
